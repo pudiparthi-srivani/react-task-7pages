@@ -1181,6 +1181,7 @@ body{
     width:40;
     line-height:0.4;
     display: block;
+    margin-left: 100px;
   
 }
 .buttonss{
@@ -1188,7 +1189,7 @@ body{
     flex-wrap:wrap;
     justify-content:center;
     gap:15px;
-    max-width:950px;
+    width:950px;
     margin-top: 150px;
     margin-left: 230px;
 }
