@@ -6,7 +6,7 @@ function Page06(){
         <div class = "integration-badge">  ● INTEGRATIONS</div>
         <h1 class="head">Connects with your</h1>
         <p class="para01">existing stack</p>
-        <div class= "buttons">
+        <div class= "buttonss">
         <div class="key">Slack</div>
             <div class="key">Google Sheets</div>
             <div class="key">Google Drive</div>
