@@ -1178,10 +1178,10 @@ body{
     color:#276f65;
     margin-bottom:50px;
     font-weight:bold;
-    width:40;
+    width:100;
     line-height:0.4;
     display: block;
-    margin-left: 100px;
+    margin-left: 500px;
   
 }
 .buttonss{
@@ -1189,7 +1189,7 @@ body{
     flex-wrap:wrap;
     justify-content:center;
     gap:15px;
-    width:950px;
+    width:1500px;
     margin-top: 150px;
     margin-left: 230px;
 }
@@ -1201,7 +1201,7 @@ body{
     font-weight:600;
     font-size: 13px;
     box-shadow:0 4px 10px rgba(0,0,0,0.08);
-    width: 0.5;
+    
 }
 
 
